@@ -33,6 +33,8 @@ This material is publicly available at https://github.com/Lascon2026/nest_tutori
    "Git" logo in the left margin. There you also find tools for
    managing Git.
 1. **Always commit and push at the end of a session.**
+1. **Pushing does not work at the moment, EBRAINS support is working
+   on it. You need to manually download your files in the meantime.**
 1. EBRAINS will from time to time shut down inactive VMs. **Any
    material in your VM home directory will then be lost**—remember to
    push!
